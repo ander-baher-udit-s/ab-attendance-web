@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ander_baher_attendance_app.ander_baher_attendance_app",
+    "sha256_cert_fingerprints": [
+      "07:CE:D7:4F:B8:65:B3:E8:55:A1:A1:E7:85:41:F7:E7:7D:F6:52:88:52:88:CC:B0:91:84:EB:AE:4F:CC:32:6E"
+    ]
+  }
+}]
